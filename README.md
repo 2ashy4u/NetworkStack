@@ -1,0 +1,2 @@
+# NetworkStack
+Using C++, Python, Docker, nesC, and Linux, this program simulates an entire network stack using framing, error correction, packet switching, multi-access (Ethernet), addressing and forwarding (IP), distance vector and link-state routing, queueing and scheduling, reliable transport, congestion control (TCP), quality of service, naming (DNS), security and diverse applications (HTTP, SMTP, Peer2Peer). This program simulates the design aspects and protocols of the internet.
